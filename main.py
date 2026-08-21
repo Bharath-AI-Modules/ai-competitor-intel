@@ -72,3 +72,6 @@ def scrape_and_analyze():
 
 if __name__ == "__main__":
     scrape_and_analyze()
+git add .
+git commit -m "feat: your descriptive change message"
+git push -u origin feature/my-new-update
